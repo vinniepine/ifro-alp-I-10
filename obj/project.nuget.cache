@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "D6eHgweUBS+7HSe1ql8niSoZEwLj0lHP0+O0QZNwQ03Hf21srwlU8jaELOEtsd46JLM3h7swaDPeCty6afz7TQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\ADS - IFRO\\1º Período\\3 - Algoritmo e Lógica de Programação I\\ALP I - Algoritmos feitos em sala\\ALP I - 10. Aula do dia 29.03.2023\\10 - Aula do dia 29.03.2023.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
